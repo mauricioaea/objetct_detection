@@ -86,10 +86,7 @@ tambien lo puedes descargar en este enlace -> https://huggingface.co/Ultralytics
 
 ## sientete libre de contactarme si necesitas ayuda, [mauricioandreserazo@outlokk.com] 
 
-## Nota,
-No tengas en cuenta el archivo
-mauricioaea
-recuirements
+## Nota
 
 ## para la ejecución en tu terminal usa python objets.py
 
